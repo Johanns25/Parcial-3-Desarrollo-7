@@ -34,7 +34,7 @@
         </div>
     <?php endif; ?>
 
-    <form method="post" action="/Parcial3/public/index.php">
+    <form method="post" action="index.php">
 
         <div class="form-shell">
 
